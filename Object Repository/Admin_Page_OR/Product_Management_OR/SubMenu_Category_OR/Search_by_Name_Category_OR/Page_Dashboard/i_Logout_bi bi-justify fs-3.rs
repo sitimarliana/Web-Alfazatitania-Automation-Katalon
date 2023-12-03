@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Logout_bi bi-justify fs-3</name>
+   <tag></tag>
+   <elementGuidId>29093527-43cf-46bf-b33e-4ed1bbbbdd0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-justify.fs-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0473737a-a570-49d9-a5c2-4bdea8d3e5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-justify fs-3</value>
+      <webElementGuid>983915ae-fdcf-47ef-85d2-e5e98b4ad1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;mb-3&quot;]/a[@class=&quot;burger-btn d-block d-xl-none&quot;]/i[@class=&quot;bi bi-justify fs-3&quot;]</value>
+      <webElementGuid>ae244c0e-88e4-4c13-8d11-63378715b447</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/header/a/i</value>
+      <webElementGuid>4fb0487e-7cb7-4d02-92f7-2af67db8a49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/a/i</value>
+      <webElementGuid>1d125eca-006d-4125-9edb-7a143cbb99b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

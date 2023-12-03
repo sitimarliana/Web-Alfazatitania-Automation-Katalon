@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Open user menu_w-8 h-8 rounded-full</name>
+   <tag></tag>
+   <elementGuidId>17732127-9ba3-495e-b193-1b6b39cd4707</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='user-menu-button']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.w-8.h-8.rounded-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6dc7faf4-95cd-4474-a8af-678a5b50ce8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-8 h-8 rounded-full</value>
+      <webElementGuid>ad99d25a-6fa7-4ef9-ba1f-601ef8de5776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://ui-avatars.com/api/?name=admin</value>
+      <webElementGuid>c454eb92-26a6-45aa-970a-8f71a05002df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>user photo</value>
+      <webElementGuid>d66888e3-3cf5-46ee-b188-e5d22b09022a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-menu-button&quot;)/img[@class=&quot;w-8 h-8 rounded-full&quot;]</value>
+      <webElementGuid>0863035f-59a5-4185-9e06-3f11015c425b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='user-menu-button']/img</value>
+      <webElementGuid>4d719175-e9dc-4bd6-b85b-9ecccaf3b819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='user photo']</value>
+      <webElementGuid>0bb5c4a3-a53c-4b5b-bd6c-e4c6e35c8150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>59eb8a42-5c89-467f-86e5-b0245275740f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ui-avatars.com/api/?name=admin' and @alt = 'user photo']</value>
+      <webElementGuid>880405c7-b16e-4b9d-85c5-aad918decacd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
