@@ -31,11 +31,9 @@ WebUI.click(findTestObject('Object Repository/Admin_Page_OR/Product_Management_O
 
 WebUI.click(findTestObject('Object Repository/Admin_Page_OR/Product_Management_OR/SubMenu_Product_OR/Product_OR/Page_Admin Homepage/img_Open user menu_w-8 h-8 rounded-full'))
 
-WebUI.click(findTestObject('Object Repository/Admin_Page_OR/Product_Management_OR/SubMenu_Product_OR/Product_OR/Page_Admin Homepage/img_Open user menu_w-8 h-8 rounded-full'))
+WebUI.doubleClick(findTestObject('Object Repository/Admin_Page_OR/Product_Management_OR/SubMenu_Product_OR/Product_OR/Page_Admin Homepage/a_Admin_ Dashboard'))
 
-WebUI.click(findTestObject('Object Repository/Admin_Page_OR/Product_Management_OR/SubMenu_Product_OR/Product_OR/Page_Admin Homepage/a_Admin                                Dashboard'))
+WebUI.click(findTestObject('Admin_Page_OR/Product_Management_OR/SubMenu_Product_OR/Product_OR/Page_Dashboard/menu_burger'))
 
-WebUI.click(findTestObject('Object Repository/Admin_Page_OR/Product_Management_OR/SubMenu_Product_OR/Product_OR/Page_Dashboard/i_Logout_bi bi-justify fs-3'))
-
-WebUI.click(findTestObject('Object Repository/Admin_Page_OR/Product_Management_OR/SubMenu_Product_OR/Product_OR/Page_Dashboard/span_Product'))
+WebUI.click(findTestObject('Admin_Page_OR/Product_Management_OR/SubMenu_Product_OR/Product_OR/Page_Dashboard/span_Product'))
 

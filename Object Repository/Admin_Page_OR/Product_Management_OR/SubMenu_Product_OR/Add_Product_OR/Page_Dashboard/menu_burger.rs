@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Logout_bi bi-justify fs-3</name>
+   <name>menu_burger</name>
    <tag></tag>
-   <elementGuidId>3ec4c378-5db8-4860-b3a5-52a0748eeb3c</elementGuidId>
+   <elementGuidId>e8f7a6da-70b7-4198-9a7f-b39e2e5b3126</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='main']/header/a/i</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>i.bi.bi-justify.fs-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/a/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>cfb1043a-f768-4def-925f-4ead47c8f625</webElementGuid>
+      <webElementGuid>8edafb34-42c0-4999-9ce7-fd4f8b9c4b83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bi bi-justify fs-3</value>
-      <webElementGuid>c67e393f-73c0-4c03-b4c8-2d30b533cbaf</webElementGuid>
+      <webElementGuid>003c067c-6ae6-48b4-9ff3-754f6ee732c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/header[@class=&quot;mb-3&quot;]/a[@class=&quot;burger-btn d-block d-xl-none&quot;]/i[@class=&quot;bi bi-justify fs-3&quot;]</value>
-      <webElementGuid>a9215815-4630-4d8d-a6b1-ef6a520c62fe</webElementGuid>
+      <webElementGuid>eb6fb305-201d-484e-b588-81ec966081cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='main']/header/a/i</value>
-      <webElementGuid>7bf25666-c557-42f8-a720-1e6614033a3f</webElementGuid>
+      <webElementGuid>b3e4b0fe-1ca0-4eeb-b041-229ce4795dcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//header/a/i</value>
-      <webElementGuid>655d7807-5020-435e-bd14-4398296249e9</webElementGuid>
+      <webElementGuid>0d102767-3e0d-4eb4-bd0d-6161c80e8570</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
